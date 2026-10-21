@@ -1,0 +1,19 @@
+node_modules/
+.pnpm-store/
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+*.log
+.vercel
+.turbo
+
+# impeccable live session state (config and records are tracked)
+.impeccable/live/
