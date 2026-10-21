@@ -1,0 +1,10 @@
+{
+  "files": [
+    "src/app/(site)/layout.tsx",
+    "src/app/(dashboard)/layout.tsx"
+  ],
+  "exclude": [],
+  "insertBefore": "</body>",
+  "commentSyntax": "jsx",
+  "cspChecked": true
+}
